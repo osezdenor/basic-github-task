@@ -1,4 +1,4 @@
-An Electrical/Electronic Engineer of 10 years experience,I Currently switched Software testing, enroled with testify Academy. I am learning the basics of manual and automation testing  
+An Electrical/Electronic Engineer of 10 years experience,I Currently switched to Software testing, enrolled with testify Academy. I am learning the basics of manual and automation testing  
 
 I have currently gaining experience in : 
 
@@ -7,3 +7,4 @@ I have currently gaining experience in :
 -Testing Methodologies: black box, functional ,API testing.
 
 - Tools: Postman, SQL, JIRA.
+To mention a few
